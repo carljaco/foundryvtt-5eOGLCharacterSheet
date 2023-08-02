@@ -72,7 +72,7 @@
 	"compatibility":{
 		"minimum": 10,
 		"verified": 10,
-		"maximum": 10
+		"maximum": 11
 	},
 	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/issues",
 	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases",
